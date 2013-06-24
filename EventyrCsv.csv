@@ -1,19 +1,1 @@
 Navn;F›dt;Kommentar
-Per;1880;Jeg var f›rst!
-P†l;1881;Jeg er nest eldst.
-Espen;1882;Jeg f†r prinsessa.
-Første;1;Dette er første fil.
-Andre;2;Dette er andre tekstfil.
-Tredje;3;Dette er tredje fila.
-Skripter;1111;Testing av henting, input, backup og sletting!
-Nyskripter;2222;Dette er en ny test for innhenting, input, kopiering og sletting!
-ENDAenSkriptertest;3333;Gjett hva.
-Skriptertest2;4;Gjett hva.
-Fjerdetest;1;Bla.
-Skripttest;19;Gjett hva.
-Skriptertest2;4;Gjett hva.
-More_Test;1;Gjett hva.
-1Test_TimeAndDate;0000;Tester ut om jeg kan sende tid og dato som parameter. 1.
-Tid2;1;Nytest - hva gikk feil?
-Tid3;2;Og igjen....
-Tid4;1337;Tid og dato sendes som commit melding.
