@@ -13,3 +13,6 @@ Fjerdetest;1;Bla.
 Skripttest;19;Gjett hva.
 Skriptertest2;4;Gjett hva.
 More_Test;1;Gjett hva.
+1Test_TimeAndDate;0000;Tester ut om jeg kan sende tid og dato som parameter. 1.
+Tid2;1;Nytest - hva gikk feil?
+Tid3;2;Og igjen....
